@@ -9,26 +9,4 @@
 ### taller 1: 
 Crear la siguiente estructura de directorios, luego añadir la info de cada persona (nombre, apellido, estatura, rh, fechaqNacimiento), Por ultimo mover los archivos masculinos a los femeninos (Usando Rutas relativas):
 
-|__ talle 1
-    |__ Bisabula
-    |    |__ info.txt
-    |    |__ Abuela
-    |        |__ info.txt
-    |        |__ Mama 
-    |            |__ info.txt
-    |            |__ Hija
-    |                |__ info.txt
-    |                |__ Nieta
-    |                    |__ info.txt
-    |
-    |__ Bisabuelo
-         |__ info.txt
-         |__ Abuelo
-             |__ info.txt
-             |__ Papa 
-                 |__ info.txt
-                 |__ Hijo
-                     |__ info.txt
-                     |__ Nieto
-                         |__ info.txt
-    
+![image](https://github.com/danielPachon/Electiva-III/assets/81037147/6fc500a8-2a46-4f01-8636-308598c61f91)
